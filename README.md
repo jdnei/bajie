@@ -74,8 +74,8 @@ sawTBTky
 
 ### 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![013eb12583a611d33949daffb0411136.png](https://pic.us.kg/file/1778549698873_013eb12583a611d33949daffb0411136.png?raw=ture)  
+![013eb12583a611d33949daffb0411136.png](https://github.com/jdnei/bajie/blob/main/bajie/photo_2026-06-22_10-08-16.jpg?raw=ture)  
 #### 2.流媒体解锁报告
-![d273281aa8a0ec3a62138edf36cfe434.png](https://pic.us.kg/file/1778549832320_d273281aa8a0ec3a62138edf36cfe434.png?raw=ture)
+![d273281aa8a0ec3a62138edf36cfe434.png](https://github.com/jdnei/bajie/blob/main/bajie/MiaoKo-%20.%20.org-6919-test.png?raw=ture)
 #### 3.落地入口分析
-![d817500327bef129a5fa3ae827736c0f.png](https://pic.us.kg/file/1778550265326_d817500327bef129a5fa3ae827736c0f.png?raw=ture)
+![d817500327bef129a5fa3ae827736c0f.png](https://github.com/jdnei/bajie/blob/main/bajie/photo_2026-06-22_10-08-10.jpg?raw=ture)
