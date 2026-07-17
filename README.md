@@ -1,4 +1,4 @@
-# bajie八戒机场官方地址(2026年7月17日更新)
+# bajie八戒机场官方地址(2026年7月18日更新)
 bajie八戒机场官网地址</br>
 最新地址01：[bajie.pw](https://bajie.pw/#/register?code=sawTBTky)  
 最新地址02：[bajie.pro](https://bajie.pro/#/register?code=sawTBTky)  
