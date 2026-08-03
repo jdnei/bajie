@@ -25,7 +25,7 @@ sawTBTky
 ```bash
 26618A
 ``` 
-![image.png](https://pic.us.kg/file/1778549180412_image.png?raw=ture)   
+![image.png](https://github.com/jdnei/bajie/blob/main/bajie/20260803-153333.jpg?raw=ture)   
 ### 优势
 按量计费：与传统的包年包月模式不同，“bajie八戒机场”等服务通常采用按流量计费的方式，用户只需为实际使用的流量付费，无需担心到期时间。  
 灵活性：这种计费方式适合流量需求不高的用户，例如浏览网页、收发邮件等。  
