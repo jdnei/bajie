@@ -1,8 +1,8 @@
 # bajie八戒机场官方地址(2026年8月3日更新)
 bajie八戒机场官网地址</br>
-最新地址01：[bajie.pw](https://bajie.pw/#/register?code=sawTBTky)  
-最新地址02：[bajie.pro](https://bajie.pro/#/register?code=sawTBTky)  
-官方入口地址01：[bajie.la](https://bajie.la/#/register?code=sawTBTky) 
+最新地址01：[bajie.la](https://to.iix.im/bj01)</br>
+最新地址02：[bajie.pro](https://to.iix.im/bj02)</br>
+官方入口地址01：[bajie.pw](https://to.iix.im/bj03)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ### 邀请码：现在用此邀请码注册,可限时够买1元体验包   
