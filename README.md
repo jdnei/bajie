@@ -15,6 +15,7 @@ bajie八戒机场官网地址</br>
 ```bash
 sawTBTky 
 ```
+![image.png](https://github.com/jdnei/bajie/blob/main/bajie/20260803-154220.jpg?raw=ture)  
 ### 简介
 “bajie八戒机场”是指一种提供VPN服务的俗称，这类服务旨在帮助用户突破网络限制，访问被屏蔽的互联网内容。以下是对“魔戒机场”及类似VPN服务的推广介绍。1元机场里，魔戒机场是代表，无有效期限制，
 ### 优惠码/折扣码
@@ -25,7 +26,7 @@ sawTBTky
 ```bash
 26618A
 ``` 
-![image.png](https://github.com/jdnei/bajie/blob/main/bajie/20260803-153333.jpg?raw=ture)   
+ 
 ### 优势
 按量计费：与传统的包年包月模式不同，“bajie八戒机场”等服务通常采用按流量计费的方式，用户只需为实际使用的流量付费，无需担心到期时间。  
 灵活性：这种计费方式适合流量需求不高的用户，例如浏览网页、收发邮件等。  
