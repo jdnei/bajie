@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный адрес Bajie VPN (обновлено 16 августа 2026)
+# Официальный адрес Bajie VPN (обновлено 17 августа 2026)
 
 Адрес официального сайта Bajie VPN</br>
 Новый адрес 01: [bajie.la](https://to.iix.im/bj01)</br>
