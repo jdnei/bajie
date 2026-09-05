@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی Bajie VPN (به‌روزرسانی 4 سپتامبر 2026)
+# آدرس رسمی Bajie VPN (به‌روزرسانی 5 سپتامبر 2026)
 
 آدرس وب‌سایت رسمی Bajie VPN</br>
 جدیدترین آدرس 01: [bajie.la](https://to.iix.im/bj01)</br>
